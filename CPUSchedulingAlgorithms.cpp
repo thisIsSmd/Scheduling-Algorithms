@@ -2,12 +2,10 @@
 
 Code for CPU Scheduling Algorithms
 
-Team Members:
+Author:
 
-1.	Durga Naga Sai Sireesha Valluri 
-2.	Mohammed Mudasir Shaik
-3.	Mounika Dandiboina 
-4.	Vasavi Maddi
+Mohammed Mudasir Shaik
+
 */
 
 #include<iostream>
